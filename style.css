@@ -1,0 +1,11 @@
+/* Provided Styles */
+.attribution {
+  margin-top: -1rem;
+  font-size: 11px;
+  color: black;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
